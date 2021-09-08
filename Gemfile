@@ -31,7 +31,7 @@ gem 'devise'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 # Make errors better looking
-gem 'better_errors', '~> 2.5', '>= 2.5.1'
+gem 'better_errors', '~> 2.8'
 
 #bulma = A modern CSS framework based on Flexbox
 gem 'bulma-rails', '~> 0.8.0'
